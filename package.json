@@ -1,0 +1,30 @@
+{
+  "name": "node-js-mongodb-pagination",
+  "version": "1.0.0",
+  "description": "Server side pagination in Node.js with MongoDB and Mongoose",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "rest",
+    "api",
+    "pagination",
+    "mongoose",
+    "paginate",
+    "server",
+    "side"
+  ],
+  "author": "bezkoder",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.0",
+    "mongoose-paginate-v2": "^1.3.9"
+  }
+}
